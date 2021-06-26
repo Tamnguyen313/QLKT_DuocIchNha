@@ -1,0 +1,66 @@
+﻿@model AdminKho.Areas.Admin.Models.Lothuoc
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Lothuoc</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Mathuoc)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Mathuoc)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Tenlothuoc)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Tenlothuoc)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Ngaynhap)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Ngaynhap)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Ngayxuat)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Ngayxuat)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Ngayhethan)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Ngayhethan)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Malothuoc }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

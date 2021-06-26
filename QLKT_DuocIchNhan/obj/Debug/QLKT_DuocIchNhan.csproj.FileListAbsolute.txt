@@ -1,0 +1,192 @@
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.dll.config
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.pdb
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.exe
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.exe.config
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.rsp
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csi.exe
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csi.rsp
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.AppContext.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Collections.Immutable.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.IO.FileSystem.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Reflection.Metadata.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.exe
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.exe.config
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.rsp
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\VBCSCompiler.exe
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\VBCSCompiler.exe.config
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Antlr3.Runtime.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.SqlServer.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.Web.Infrastructure.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Newtonsoft.Json.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.Mvc.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Helpers.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Mvc.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Optimization.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Razor.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Deployment.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Razor.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\WebGrease.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.SqlServer.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.Mvc.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Helpers.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Mvc.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Optimization.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Razor.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Deployment.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Razor.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Newtonsoft.Json.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Antlr3.Runtime.pdb
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csproj.CoreCompileInputs.cache
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csproj.CopyComplete
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.dll
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.pdb
+D:\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csproj.AssemblyReference.cache
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.dll.config
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.pdb
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.exe
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.exe.config
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.rsp
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csi.exe
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csi.rsp
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.AppContext.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.exe
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.exe.config
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.rsp
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\VBCSCompiler.exe
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Antlr3.Runtime.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.SqlServer.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Newtonsoft.Json.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.Mvc.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Helpers.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Mvc.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Optimization.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Razor.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Razor.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\WebGrease.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.SqlServer.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.Mvc.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Helpers.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Mvc.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Optimization.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Razor.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Razor.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Newtonsoft.Json.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Antlr3.Runtime.pdb
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csprojAssemblyReference.cache
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csproj.CoreCompileInputs.cache
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csproj.CopyComplete
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.dll
+C:\Users\os\Downloads\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.pdb
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.dll.config
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\QLKT_DuocIchNhan.pdb
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.exe
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.exe.config
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csc.rsp
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csi.exe
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\csi.rsp
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.AppContext.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Collections.Immutable.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.IO.FileSystem.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\System.Reflection.Metadata.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.exe
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.exe.config
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\vbc.rsp
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\VBCSCompiler.exe
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\roslyn\VBCSCompiler.exe.config
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Antlr3.Runtime.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.SqlServer.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.Web.Infrastructure.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Newtonsoft.Json.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.Mvc.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Helpers.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Mvc.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Optimization.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Razor.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Deployment.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Razor.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\WebGrease.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\EntityFramework.SqlServer.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\PagedList.Mvc.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Helpers.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Mvc.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Optimization.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.Razor.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Deployment.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\System.Web.WebPages.Razor.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Newtonsoft.Json.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Antlr3.Runtime.pdb
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csprojAssemblyReference.cache
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csproj.CoreCompileInputs.cache
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.csproj.CopyComplete
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.dll
+D:\BÁO CÁO TTSX - TTTN - ĐỒ ÁN\ĐỒ ÁN BẢO VỆ TỐT NGHIỆP\QLKT_DuocIchNhan\QLKT_DuocIchNhan\obj\Debug\QLKT_DuocIchNhan.pdb

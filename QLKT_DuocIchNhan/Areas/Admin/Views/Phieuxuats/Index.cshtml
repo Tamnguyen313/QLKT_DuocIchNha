@@ -1,0 +1,90 @@
+﻿@using QLKT_DuocIchNhan.Help
+@model IEnumerable<QLKT_DuocIchNhan.Areas.Admin.Models.Phieuxuat>
+
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section _Header
+{
+    <!-- DataTables CSS -->
+    <link href="/Areas/Admin/Content/vendor/datatables-plugins/dataTables.bootstrap.css" rel="stylesheet">
+    <!-- DataTables Responsive CSS -->
+    <link href="/Areas/Admin/Content/vendor/datatables-responsive/dataTables.responsive.css" rel="stylesheet">
+}
+
+<div class="col-sm-12">
+    <h1> Quản lý Phiếu Xuất </h1>
+    <p>
+        @Html.ActionLink("Thêm mới", "Create")
+    </p>
+    <table class="table table-striped table-bordered table-hover" id="dataTables-example" style="width:100%">
+        <thead>
+            <tr>
+                <th class="text-center">
+                    Mã phiếu xuất
+                </th>
+                <th class="text-center">
+                    Mã đơn vị nhận
+                </th>
+                <th class="text-center">
+                    Người lập phiếu
+                </th>
+                <th class="text-center">
+                    Ngày lập phiếu
+                </th>
+                <th class="text-center">
+                    Ghi chú
+                </th>
+                <th class="text-center">
+                    Sửa
+                </th>
+                <th class="text-center">
+                    Xóa
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Maphieuxuat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Madonvinhan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nguoilapphieu)
+                </td>
+                <td class="text-center">
+                    @Html.DisplayFor(modelItem => item.Ngayxuatphieu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ghichu)
+                </td>
+                <td class="text-center">
+                    @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-pencil'></span>", "Sửa", "Edit", "Phieuxuats", routeValues: new { id = item.Maphieuxuat }, htmlAttributes: new { data_modal = "", @class = "btn btn-default" })
+                </td>
+                <td class="text-center">
+                    @Html.NoEncodeActionLink("<span class='glyphicon glyphicon-trash'></span>", "Xoá", "Delete", "Phieuxuats", routeValues: new { id = item.Maphieuxuat }, htmlAttributes: new { data_modal = "", @class = "btn btn-default" })
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section _Footer
+{
+    <script src="/Areas/Admin/Content/vendor/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="/Areas/Admin/Content/vendor/datatables-plugins/dataTables.bootstrap.min.js"></script>
+    <script src="/Areas/Admin/Content/vendor/datatables-responsive/dataTables.responsive.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#dataTables-example').DataTable({
+                responsive: true
+            });
+        });
+    </script>
+}

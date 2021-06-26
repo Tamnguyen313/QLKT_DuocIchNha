@@ -1,0 +1,79 @@
+﻿@model AdminKho.Areas.Admin.Models.Nhacungcap
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Xóa </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="col-md-12">
+        <h3> Bạn có chắc muốn xóa @Model.Manhacungcap không?</h3>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                Tên NCC
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Tennhacungcap)
+            </dd>
+
+            <dt>
+                Email
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt>
+                SĐT
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Sodienthoai)
+            </dd>
+
+            <dt>
+                Địa chỉ
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Diachi)
+            </dd>
+
+            <dt>
+                Ghi chú
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Ghichu)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-group row">
+                <div class="col-md-1">
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                </div>
+                <div class="col-md-2" style="text-align:center; margin-top: 10px;">
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>

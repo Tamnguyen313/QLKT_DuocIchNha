@@ -1,0 +1,64 @@
+﻿@model QLKT_DuocIchNhan.Areas.Admin.Models.Admin
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title> Xóa </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="col-md-12">
+        <h3> Bạn có chắc muốn xóa @Model.username không?</h3>
+        <hr />
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                Tên đăng nhập
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.username)
+            </dd>
+
+            <dt>
+                Mật khẩu
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.password)
+            </dd>
+
+            <dt>
+                Trạng thái
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.status)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-group row">
+                <div class="col-md-1">
+                    <input type="submit" value="Delete" class="btn btn-danger" />
+                </div>
+                <div class="col-md-2" style="text-align:center; margin-top: 10px;">
+                    @Html.ActionLink("Back to List", "Index")
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>
